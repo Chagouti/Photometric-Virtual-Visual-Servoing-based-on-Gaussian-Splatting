@@ -17,7 +17,7 @@ This makes the system simpler, faster, and more stable during camera or robot mo
 <p align="center">
   <img src="images/gs.jpeg" width="400">
   <br>
-  <em>Figure 2 – Example of 3D scene reconstruction using Gaussian Splatting (GS).</em>
+  <em>Figure 2 – Reconstruction using Gaussian Splatting.</em>
 </p>
 
 ---
