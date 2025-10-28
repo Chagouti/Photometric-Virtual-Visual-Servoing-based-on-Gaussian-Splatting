@@ -8,11 +8,17 @@ The main goal is to use Gaussian Splatting (GS) to rebuild the 3D scene and help
 Since GS already includes depth information in its 3D representation, there is no need for extra sensors or heavy depth calculations.
 This makes the system simpler, faster, and more stable during camera or robot movement.
 
-![Photometric Visual Servoing](images/Visual_Servoing.png)
-*Figure 1 – Overview of Visual Servoing.*
+<p align="center">
+  <img src="images/Visual_Servoing.png" width="400">
+  <br>
+  <em>Figure 1 – Overview of Visual Servoing.</em>
+</p>
 
-![Gaussian Splatting](images/gs.jpeg)
-*Figure 2 – Example of 3D scene reconstruction using Gaussian Splatting (GS).*
+<p align="center">
+  <img src="images/gs.jpeg" width="400">
+  <br>
+  <em>Figure 2 – Example of 3D scene reconstruction using Gaussian Splatting (GS).</em>
+</p>
 
 ---
 
