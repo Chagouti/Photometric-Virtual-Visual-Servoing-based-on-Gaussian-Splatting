@@ -11,7 +11,7 @@ This makes the system simpler, faster, and more stable during camera or robot mo
 ![Photometric Visual Servoing](images/Visual_Servoing.png)
 *Figure 1 – Overview of Visual Servoing.*
 
-![Gaussian Splatting](images/gs.png)
+![Gaussian Splatting](images/gs.jpeg)
 *Figure 2 – Example of 3D scene reconstruction using Gaussian Splatting (GS).*
 
 ---
