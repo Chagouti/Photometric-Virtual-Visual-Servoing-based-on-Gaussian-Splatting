@@ -1,11 +1,18 @@
 # Photometric-Virtual-Visual-Servoing-based-on-Gaussian-Splatting
 
 ## Overview
-This project was conducted within the **AI Movement Research Center** as part of a final-year research and development effort.  
+This project was conducted within the **AI Movement Research Center** as part of a final-year project.  
 It focuses on the design and implementation of a **Photometric Visual Servoing (PVS)** approach integrated with **Gaussian Splatting (GS)** — an innovative 3D scene representation technique.
 
-The main objective is to leverage the **3D reconstruction capabilities of Gaussian Splatting** to guide the motion of a camera or robot more accurately and robustly.  
-By embedding depth information directly into the radiance field, GS eliminates the need for additional depth sensors or computationally expensive estimations, simplifying the control pipeline and improving stability during visual servoing.
+The main goal is to use Gaussian Splatting (GS) to rebuild the 3D scene and help Photometric Visual Servoing (PVS) control the motion of a camera or robot more precisely.
+Since GS already includes depth information in its 3D representation, there is no need for extra sensors or heavy depth calculations.
+This makes the system simpler, faster, and more stable during camera or robot movement.
+
+![Photometric Visual Servoing](images/Visual_Servoing.png)
+*Figure 1 – Overview of Visual Servoing.*
+
+![Gaussian Splatting](images/gs.png)
+*Figure 2 – Example of 3D scene reconstruction using Gaussian Splatting (GS).*
 
 ---
 
