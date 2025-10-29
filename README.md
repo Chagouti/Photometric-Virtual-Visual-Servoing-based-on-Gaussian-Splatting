@@ -50,4 +50,4 @@ Results show:
 - Reduced photometric and geometric errors;
 - Improved robustness in 3D tracking using GS-provided depth information.
 
-A scientific paper based on this work has been **submitted to the IEEE/SICE International Symposium on System Integration (SII 2026)** and is currently **under review**.
+A scientific paper based on this work has been **submitted to the IEEE/SICE International Symposium on System Integration (SII 2026)**.
